@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Solitaire Game with Roles MVC and Commits:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Solitaire_Game_with_Roles_MVC_and_Commits_jar</output-path>
+    <root id="archive" name="Solitaire Game with Roles MVC and Commits.jar">
+      <element id="module-output" name="Solitaire Game with Roles MVC and Commits" />
+    </root>
+  </artifact>
+</component>
